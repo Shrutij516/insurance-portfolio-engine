@@ -1,0 +1,13 @@
+{
+  "source": "Yahoo Finance via yfinance, auto_adjust=True (adjusted close)",
+  "yfinance_version": "1.7.0",
+  "downloaded_at_utc": "2026-10-20T03:24:46+00:00",
+  "tickers": [
+    "^TNX",
+    "SPY"
+  ],
+  "first_row": "2006-01-03",
+  "last_row": "2026-09-30",
+  "rows": 5218,
+  "sha256_of_csv": "a28f8d3d809cdfef34cd03d1e7beab6b6f64b61382cb0a91a2c8f8abda5ee9e0"
+}

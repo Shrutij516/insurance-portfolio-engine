@@ -1,0 +1,10 @@
+# Exact versions used to produce the results in reports/ and DECISIONS.md.
+numpy==2.5.4
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+yfinance==1.7.0
+tabulate==0.10.0
+matplotlib==3.11.2
+pytest==9.1.1
+ruff==0.17.1

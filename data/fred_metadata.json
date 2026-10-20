@@ -1,0 +1,34 @@
+{
+  "source": "FRED fredgraph.csv endpoint (St. Louis Fed), daily, percent",
+  "downloaded_at_utc": "2026-10-20T03:53:48+00:00",
+  "series": [
+    "DGS3MO",
+    "DGS1",
+    "DGS2",
+    "DGS5",
+    "DGS7",
+    "DGS10",
+    "DGS20",
+    "DGS30",
+    "BAA10Y",
+    "BAMLC0A0CM",
+    "BAMLH0A0HYM2"
+  ],
+  "first_valid": {
+    "DGS3MO": "2006-01-03",
+    "DGS1": "2006-01-03",
+    "DGS2": "2006-01-03",
+    "DGS5": "2006-01-03",
+    "DGS7": "2006-01-03",
+    "DGS10": "2006-01-03",
+    "DGS20": "2006-01-03",
+    "DGS30": "2006-01-03",
+    "BAA10Y": "2006-01-03",
+    "BAMLC0A0CM": "2023-10-20",
+    "BAMLH0A0HYM2": "2023-10-20"
+  },
+  "last_row": "2026-09-30",
+  "rows": 5424,
+  "note": "ICE BofA OAS series (BAMLC0A0CM, BAMLH0A0HYM2) only available on FRED from 2023-10-20",
+  "sha256_of_csv": "edf375ee38683f90e5026b7124481be19e686ff7c270c1c2b236c9bc4e53c826"
+}

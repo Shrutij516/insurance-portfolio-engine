@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Raw market data is not committed (Yahoo Finance terms restrict redistribution).
+# data/prices_metadata.json IS committed so the cached file can be verified by hash.
+data/*.csv
+
+# OS
+.DS_Store
+
+# Local notes, not part of the repository
+PRIVATE_PREP.md

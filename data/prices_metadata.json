@@ -1,0 +1,23 @@
+{
+  "source": "Yahoo Finance via yfinance, auto_adjust=True (adjusted close)",
+  "yfinance_version": "1.7.0",
+  "downloaded_at_utc": "2026-10-20T03:13:33+00:00",
+  "tickers": [
+    "SPY",
+    "EFA",
+    "EEM",
+    "SHY",
+    "IEF",
+    "TLT",
+    "LQD",
+    "HYG",
+    "TIP",
+    "VNQ",
+    "GLD",
+    "BIL"
+  ],
+  "first_row": "2007-04-02",
+  "last_row": "2026-09-30",
+  "rows": 4906,
+  "sha256_of_csv": "ff42f6f3bebade21f7ad7f9e2a376f0fb5f430b168e238a7ef7696fe66ecbc3a"
+}
